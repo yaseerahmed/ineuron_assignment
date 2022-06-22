@@ -1,5 +1,6 @@
 # ineuron_assignment
 Screening assignment for ineuron
+
 What is abstract class
 
 ```
